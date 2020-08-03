@@ -11,3 +11,4 @@ Practice Juptyer notebooks, python code, etc. related to data science.
   - FastaiDL1Practice_DatasetsfromImages.ipynb - Classifies different images pulled from image search, in this case lions, tigers, and cheetahs. Achieved 0.008333 error rate (99.17% accuracy).
   - FastaiDL1Practice_Multilabel_Planets.ipynb - Classifies images with multiple labels per image. Uses planets dataset from Kaggle.
   - FastaiDL1Practice_ImageSegmentation.ipynb - Uses CamVid dataset.
+  - FastaiDL1Practice_HeadPose.ipynb - Estimates the center of the face for various head poses. Uses BIWI dataset.
