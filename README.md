@@ -14,3 +14,4 @@ Practice Juptyer notebooks, python code, etc. related to data science.
   - FastaiDL1Practice_HeadPose.ipynb - Estimates the center of the face for various head poses. Uses BIWI dataset.
   - FastaiDL1Practice_IMDB.ipynb - A sentiment analysis NLP model based on up to 100,000 IMDB movie reviews.
   - FastaiDL1Practice_Tabular.ipynb - Brief example of importing and training on tabular data.
+  - FastaiDL1Practice_CollabFiltering.ipynb - Collaborative filtering using the MovieLens 100k dataset.
