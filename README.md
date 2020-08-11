@@ -3,7 +3,7 @@ Practice Juptyer notebooks, python code, etc. related to data science.
 
 # [Fast.ai](https://www.fast.ai) Deep Learning
 
-- Deep Learning 1
+### Deep Learning 1
   - The notebooks listed here are based on part 1 of the course. They may include additional cells from me trying different models, learning rates, image sizes, transforms, etc. All of these notebooks were run in Jupyter Lab on my local machine in an Anaconda environment set up for deep learning work. The times shown for training correlate to a GTX 1080TI GPU if you were curious.
   
   - FastaiDL1Practice_MNISTdigits.ipynb - Practice image classification on MNIST handwritten digit dataset.
