@@ -1,5 +1,5 @@
-# DataSciencePractice
-Practice Juptyer notebooks, python code, etc. related to data science.
+# Data Science Practice
+Practice Jupyter notebooks, python code, etc. related to data science.
 
 # [Fast.ai](https://www.fast.ai) Deep Learning
 
